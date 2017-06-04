@@ -1,2 +1,5 @@
-# cti110
-CTI110 Projects
+# CTI 110 Repository
+Created for M1LAB1
+Hammers
+4 June 2017
+
